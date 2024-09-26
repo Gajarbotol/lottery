@@ -12,6 +12,8 @@
     "react-dom": "latest",
     "@types/react": "latest",
     "@types/node": "latest",
+    "scripts": {
+    "build": "next build --debug",
     "typescript": "latest"
   }
 }
